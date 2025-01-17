@@ -1,6 +1,6 @@
-
+'与SAS程序中Patient Profile结合使用
 Sub MCompare()
-'
+
 Dim Orig As String
 Dim Revi As String
 Dim Comp As String
